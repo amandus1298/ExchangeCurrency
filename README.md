@@ -20,3 +20,7 @@ minha dificuldade foi em fazer as classes conversarem entre si de forma a deixar
 Levei dois dias para terminar esse projeto mas no fim deu certo e estou orgulhoso pelo resultado. Programar em java ainda é novo pra mim (programo em Javascript)... Existem muitas semelhanças mas no geral sao linguagem diferentes, cada uma com sua propria abordagem de resolver mesmos problemas.
 
 
+![Badge-Conversor](https://github.com/user-attachments/assets/096b0244-41d0-4ff0-b8f2-0e7446d158d4)
+
+#Oracle #Alura
+
